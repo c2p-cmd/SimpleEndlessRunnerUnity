@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ba9027e9-aa24-88b1-26a1-7d6ca9a6ed05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualButtonsScripts", "VirtualButtonsScripts.csproj", "{206b2330-302c-0043-336d-a3cda7f9f289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,6 +12,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{ba9027e9-aa24-88b1-26a1-7d6ca9a6ed05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ba9027e9-aa24-88b1-26a1-7d6ca9a6ed05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206b2330-302c-0043-336d-a3cda7f9f289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206b2330-302c-0043-336d-a3cda7f9f289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
